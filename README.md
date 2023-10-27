@@ -8,6 +8,6 @@
 ### TOOLS
 - HTML
 - CSS / Tailwind
-- JavaScript (React, Vite)
-- Spring boot (Java)
+- Java Script (React, Vite)
+- Java (Spring boot)
 - MySQL (Data base)
